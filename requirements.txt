@@ -1,2 +1,2 @@
-[requires]
-python_version = "3.6"
+requires
+Flask==0.12.2
